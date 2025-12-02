@@ -11,11 +11,11 @@ REST API untuk manajemen produk yang dibangun dengan .NET Core 8
 - ✅ Docker containerization
 - ✅ Swagger/OpenAPI documentation
 
-## 🚀 API Endpoints
-
 ## Query
 
 Excecute query table TableProduct.sql di database
+
+## 🚀 API Endpoints
 
 ### 1. Get All Products
 ```http
