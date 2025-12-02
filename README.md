@@ -19,7 +19,7 @@ Excecute query table TableProduct.sql di database
 
 ### 1. Get All Products
 ```http
-GET /api/product
+GET /api/products
 ```
 Response:
 ```json
@@ -42,7 +42,7 @@ Response:
 
 ### 2. Get Product by ID
 ```http
-GET /api/product/{id}
+GET /api/products/{id}
 ```
 Response:
 ```json
@@ -63,7 +63,7 @@ Response:
 
 ### 3. Create Product
 ```http
-POST /api/product
+POST /api/products
 Content-Type: application/json
 
 {
@@ -92,7 +92,7 @@ Response:
 
 ### 4. Delete Product
 ```http
-DELETE /api/product/{id}
+DELETE /api/products/{id}
 ```
 Response:
 ```json
