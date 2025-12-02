@@ -13,6 +13,10 @@ REST API untuk manajemen produk yang dibangun dengan .NET Core 8
 
 ## 🚀 API Endpoints
 
+## Query
+
+Excecute query table TableProduct.sql di database
+
 ### 1. Get All Products
 ```http
 GET /api/product
