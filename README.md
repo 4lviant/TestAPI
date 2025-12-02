@@ -1,4 +1,4 @@
-"# Product Management API - .NET Core 8
+"# Product Management API - .NET 8
 
 REST API untuk manajemen produk yang dibangun dengan .NET Core 8
 
